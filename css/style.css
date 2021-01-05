@@ -25,3 +25,22 @@ font-family:Arial, Helvetica, sans-serif;
 table, th, td {
     border: 1px solid black;
   }
+.locationsAddresses{
+  font-size:larger;
+  color: yellowgreen;
+}
+.locationsAddresses span{
+  color:royalblue;
+}
+.img{
+  width: 150px;
+  height: 150px;
+  margin:50px;
+
+}
+.famImg{
+  margin-left:50px;
+}
+.imgs{
+  text-align: center;
+}
