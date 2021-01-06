@@ -44,3 +44,15 @@ table, th, td {
 .imgs{
   text-align: center;
 }
+fieldset{
+  text-align: center;
+  border: 6px solid red;
+  width: 50%;
+}
+legend{
+  font-size:30px;
+  font-family: 'Redressed', cursive;
+}
+input{
+  width: 80%;
+}
