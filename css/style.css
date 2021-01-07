@@ -14,13 +14,13 @@ header{
 background-color: coral;
 }
 body{
-background-color: cornflowerblue;
+background-color: rgb(167, 255, 233);
 }
 ul li{
 margin: 5px;
 background-color: darkorange;
 color:darkmagenta;
-font-family:Arial, Helvetica, sans-serif;
+font-family: 'Dancing Script', cursive;
 }
 table, th, td {
     border: 1px solid black;
@@ -55,4 +55,14 @@ legend{
 }
 input{
   width: 80%;
+}
+p{
+  font-family:Arial, Helvetica, sans-serif;
+}
+a{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color:crimson;
+}
+img{
+  border: solid blueviolet 3px;
 }
